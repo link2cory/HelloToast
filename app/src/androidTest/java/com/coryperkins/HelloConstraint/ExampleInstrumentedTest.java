@@ -1,4 +1,4 @@
-package com.coryperkins.hellotoast;
+package com.coryperkins.HelloConstraint;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.coryperkins.hellotoast", appContext.getPackageName());
+        assertEquals("com.coryperkins.HelloConstraint", appContext.getPackageName());
     }
 }

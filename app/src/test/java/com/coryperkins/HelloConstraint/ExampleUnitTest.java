@@ -1,4 +1,4 @@
-package com.coryperkins.hellotoast;
+package com.coryperkins.HelloConstraint;
 
 import org.junit.Test;
 
